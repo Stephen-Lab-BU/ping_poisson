@@ -7,5 +7,5 @@ Started with a PING model from DynaSim, written by Jason Sherfey. Switched from 
 Playing around with levels of AMPA and/or GABA external inputs to E and/or I networks, with varying input rates. Readout: entire spectral shape or 1/f slope in the knee region (Gao et al 2017).
 
 # Dependencies
-DynaSim
-Chronux
+- DynaSim
+- Chronux
