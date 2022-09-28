@@ -1,0 +1,8 @@
+*.png
+*.mat
+*.pdf
+*.m~
+demo_sPING_0/
+old/
+.DS_Store
+
