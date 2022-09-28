@@ -1,3 +1,4 @@
+% Eric Melonakos 2017
 sim_length=1000; % [ms]
 Poisson_rate=1000; % [Hz] for all external Poisson input
 for EgAMPA=0:0.125:0.25 % conductance range for external AMPA input to pyramidal neurons

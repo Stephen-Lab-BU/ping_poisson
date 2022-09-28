@@ -5,6 +5,7 @@ function sPING_network_iPoisson(sim_length,ErPoissonAMPA,EgPoissonAMPA,ErPoisson
 % variable names, E refers to inputs to pyramidal neurons, I refers to
 % inputs to interneurons, r refers to rate [Hz], and g refers to
 % conductance.
+% Edited by Eric Melonakos 2017
 
 % define equations of cell model (same for E and I populations)
 eqns={

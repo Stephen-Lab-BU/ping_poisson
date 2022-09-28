@@ -1,3 +1,4 @@
+% Emily Stephen 2017
 clear variables
 close all
 

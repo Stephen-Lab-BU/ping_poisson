@@ -1,3 +1,5 @@
+% Emily Stephen 2022
+
 sim_length=2000; % [ms]
 % rates = 50:50:200;
 rates = 500:500:2000;

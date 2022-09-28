@@ -1,5 +1,6 @@
 function [f,P12]=power_spectrum(signal)
 % Signal should be t x n 
+% Emily Stephen 2017
 
 dt=0.00001;
 SR=1/dt;
